@@ -1,0 +1,252 @@
+
+   
+
+
+header {
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    padding: 20px;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+.atualizacao{
+    text-align: center;
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    height: 30px;
+   
+}
+
+body{
+    background-color: orange;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover{
+    background-color:orange;
+    border-radius: 20px;
+    cursor: pointer;
+    text-decoration:underline;
+}
+
+.verde {
+    color: olivedrab;
+}
+
+.posts{
+    color: aliceblue;
+    border-radius: 20px;
+    text-align: center;
+    height: 30px;
+    display: flex;
+    
+    
+}
+
+.imagens{
+    
+    display: flex;
+    margin: 30px;
+    height: 300px;
+
+}
+
+.cayo-perico{
+    background-color: Black;
+    border-radius: 20px;
+    width: 500px;
+    height: 650px;
+    text-decoration: none;
+    margin-top: 50px;
+    align-items: center;
+    
+}
+
+.perico-imagem{
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    height: 200px;
+    margin-top: 30px;
+    margin-right: 150px;
+    }
+
+    .texto-perico{
+        margin: 10px;
+    }
+
+.tezeract{
+background-color: black;
+border-radius: 20px;
+margin-left: 80px;
+width: 500px;
+height: 650px;
+margin-top: 50px;
+}
+ .tezeract-imagem{
+ display: flex;
+ justify-content: center;
+ height: fit-content;
+ }
+
+ .texto-tezeract{
+    margin: 60px;
+    font-size: 23px;
+ 
+ }
+
+ .laboratorio{
+    background-color: black;
+    border-radius: 20px;
+    width: 500px;
+    height: 650px;
+    margin-top: 50px;
+    margin-left: 90px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    }
+
+.imagem-laboratorio{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    align-items: center;
+    margin-right: 0px;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+    padding: 0;
+}
+
+.laboratorio-texto{
+    font-size: 19px;
+    margin: 10px;
+}
+
+.sobre-nos{
+    background-color: black;
+    border-radius: 20px;
+    height: 500px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.verdinho{
+    color: olivedrab;
+}
+
+.texto-sobre{
+    font-size: 20px;
+}
+
+.imagem-sobre{
+   margin-top: 150px;
+   background-color: black;
+   height: 200px;
+   width: 1635px;
+   align-items: center;
+   border-radius: 20px;
+}
+
+.sublinhado-contato{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.instagram{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.Telefone{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+
+.servicos{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.ultima-equipe{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    height: 800px;
+    text-align: center;
+
+}
+
+.imagem-sobrevivente{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    flex-wrap: wrap;
+}
+
+.texto-sobrevivente{
+    font-size: 19px;
+    margin: 20px;
+}
+
+.mata-mata{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    height: 350px;
+    text-align: center;
+}
+
+.texto-mata{
+    font-size: 19px;
+    margin: 20px;
+}
+
+.corrida{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    height: 500px;
+    text-align: center;
+    
+}
+
+.texto-corrida{
+    font-size: 19px;
+    margin: 20px;
+}
+
+.golpes{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    height: 550px;
+    text-align: center;
+}
+
+.golpe-texto{
+    font-size: 19px;
+    margin: 20px;
+}
+
